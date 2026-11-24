@@ -2,6 +2,8 @@
 
 A complete email/password authentication app for the Web Development challenge **#evn-lf26-web-dev14**. Built with Next.js 16 App Router, TypeScript, React, `jose`, Zod, and libSQL.
 
+**[Live website](https://auth-task-mlearn.vercel.app)** · **[GitHub repository](https://github.com/godlykmathews/auth-task-mlearn)**
+
 ## Features
 
 - Signup and login with accessible, responsive forms, inline errors, password visibility controls, and loading states.
@@ -103,9 +105,7 @@ scripts/test-auth.ts       HTTP integration tests
 
 ## Submission message
 
-> #evn-lf26-web-dev14 Built an Authentication System with Next.js! Users can sign up, log in, access a protected dashboard via JWT, and log out securely. GitHub: https://github.com/godlykmathews/auth-task-mlearn · Website: [add deployed website link]
-
-The website placeholder should only be replaced after a successful push and verified deployment.
+> #evn-lf26-web-dev14 Built an Authentication System with Next.js! Users can sign up, log in, access a protected dashboard via JWT, and log out securely. GitHub: https://github.com/godlykmathews/auth-task-mlearn · Website: https://auth-task-mlearn.vercel.app
 
 ## References
 
